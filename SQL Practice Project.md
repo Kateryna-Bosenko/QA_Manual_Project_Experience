@@ -1,0 +1,3 @@
+[Link to check my completed tasks](https://docs.google.com/spreadsheets/d/1V8mR5zijWYbRIploJ11ZaqgPiK3aIa88AQBrgOlrb70/edit?usp=sharing)
+---
+##### This project showcases practical SQL skills through a series of tasks centered on data retrieval and analysis. The work involves selecting, filtering, sorting, and aggregating data from relational databases, as well as joining multiple tables. The project addresses real-world scenarios, such as working with employee data, including salaries, job titles, and locations. It utilizes various SQL clauses, including WHERE, ORDER BY, GROUP BY, HAVING, and JOIN.
